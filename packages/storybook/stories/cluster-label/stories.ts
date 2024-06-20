@@ -12,7 +12,7 @@ export default meta;
 
 type Story = StoryObj;
 export const story: Story = {
-  name: "Adding label on clusters",
+  name: "Adding label on clusters lq",
   render: () => template,
   play: play,
   parameters: {
